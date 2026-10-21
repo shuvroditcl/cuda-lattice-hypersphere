@@ -52,3 +52,9 @@ nvcc -O3 -arch=sm_75 nsphere_cuda.cu -o nsphere_cuda
 
 # Run automated multi-benchmark suite
 bash job_ass5.sh
+```
+
+**Author**<br>
+Subrota Debnath<br>
+Master of Information Sciences<br>
+Massey University
