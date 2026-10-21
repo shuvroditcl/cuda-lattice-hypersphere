@@ -1,0 +1,9 @@
+# Compiled binaries
+nsphere_cuda
+*.o
+*.exe
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
