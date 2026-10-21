@@ -26,7 +26,7 @@ The algorithm searches an enclosing $N$-dimensional hypercube bounding box of si
 
 | Radius Scaling (2D & 3D Speedup) | Curse of Dimensionality (Search Ratio) |
 | :---: | :---: |
-| ![Benchmark Graphs](assets/Assignment5_Benchmark_Graphs.png) | ![Curse of Dimensionality](assets/Assignment5_Curse_of_Dimensionality.png) |
+| ![Benchmark Graphs](assets/Benchmark_Graphs.png) | ![Curse of Dimensionality](assets/Curse_of_Dimensionality.png) |
 | *Optimized kernel achieves up to 1,022.8x speedup over sequential CPU.* | *Interior lattice point density drops exponentially from 84.0% ($N=2$) to 0.014% ($N=13$).* |
 
 ### Key Performance Highlights ($N = 2$ to $13$)
